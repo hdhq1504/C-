@@ -1,0 +1,9 @@
+D:\Productivities\WorkSpace\Visual Studio 2013 Ultimate\Projects\C Sharp\2001223947_HoDucHoangQuan_LTHDT_Buoi3\bin\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.exe.config
+D:\Productivities\WorkSpace\Visual Studio 2013 Ultimate\Projects\C Sharp\2001223947_HoDucHoangQuan_LTHDT_Buoi3\bin\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.exe
+D:\Productivities\WorkSpace\Visual Studio 2013 Ultimate\Projects\C Sharp\2001223947_HoDucHoangQuan_LTHDT_Buoi3\bin\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.pdb
+D:\Productivities\WorkSpace\Visual Studio 2013 Ultimate\Projects\C Sharp\2001223947_HoDucHoangQuan_LTHDT_Buoi3\obj\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.csprojResolveAssemblyReference.cache
+D:\Productivities\WorkSpace\Visual Studio 2013 Ultimate\Projects\C Sharp\2001223947_HoDucHoangQuan_LTHDT_Buoi3\obj\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.exe
+D:\Productivities\WorkSpace\Visual Studio 2013 Ultimate\Projects\C Sharp\2001223947_HoDucHoangQuan_LTHDT_Buoi3\obj\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.pdb
+D:\Productivities\Workspace\Visual Studio 2013 Ultimate\Projects\C#\2001223947_HoDucHoangQuan_LTHDT_Buoi3\bin\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.exe.config
+D:\Productivities\Workspace\Visual Studio 2013 Ultimate\Projects\C#\2001223947_HoDucHoangQuan_LTHDT_Buoi3\obj\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.exe
+D:\Productivities\Workspace\Visual Studio 2013 Ultimate\Projects\C#\2001223947_HoDucHoangQuan_LTHDT_Buoi3\obj\Debug\2001223947_HoDucHoangQuan_LTHDT_Buoi3.pdb
